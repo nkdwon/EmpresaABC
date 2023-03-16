@@ -1,0 +1,22 @@
+H:\Visual Studio 2022\Projects\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.exe.config
+H:\Visual Studio 2022\Projects\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.exe
+H:\Visual Studio 2022\Projects\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.pdb
+H:\Visual Studio 2022\Projects\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.exe
+H:\Visual Studio 2022\Projects\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.pdb
+H:\Visual Studio 2022\Projects\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.FormularioCadastroCliente.resources
+C:\ESCOLA\LÓGICA\Visual Studio\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.exe.config
+C:\ESCOLA\LÓGICA\Visual Studio\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.exe
+C:\ESCOLA\LÓGICA\Visual Studio\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.pdb
+C:\ESCOLA\LÓGICA\Visual Studio\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.AssemblyReference.cache
+C:\ESCOLA\LÓGICA\Visual Studio\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.SuggestedBindingRedirects.cache
+C:\ESCOLA\LÓGICA\Visual Studio\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.FormularioCadastroCliente.resources
+C:\ESCOLA\LÓGICA\Visual Studio\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.Properties.Resources.resources
+C:\ESCOLA\LÓGICA\Visual Studio\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.GenerateResource.cache
+C:\ESCOLA\LÓGICA\Visual Studio\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.CoreCompileInputs.cache
+C:\ESCOLA\LÓGICA\Visual Studio\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.exe
+C:\ESCOLA\LÓGICA\Visual Studio\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.pdb
